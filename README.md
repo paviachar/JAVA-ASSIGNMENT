@@ -1,3 +1,4 @@
 # JAVA-ASSIGNMENT
 
-2.a)Performancetest  -https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/Screenshot%202026-04-18%20213715.png
+2.b)Performancetest  -https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/Screenshot%202026-04-18%20213715.png
+  a)stringHandlingDemo - https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/Screenshot%202026-04-18%20221318%2C1.png

@@ -1,28 +1,22 @@
 # JAVA-ASSIGNMENT
 
 1.] LAB1 -1A.] ListInterfaceDemo.java -https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/ListInterafceDemo.png
+     1b]1b. Array List programs
+p1.java
+p2.java
+p3.java
+p4.java
+p5.java
+
+1c] Linked List Programs
+p6.java
+p7.java
+p8.java
+p9.java
+p10.java
 
          
-               p1.java- https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/p1.png
-               
-               p2.java-https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/p2.png
-               
-               p3.java-https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/p3.png
-               
-               p4.java-https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/p4.png
-               
-               p5.java-https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/p5.png
-         
-               p6.java- https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/p6.png
-               
-               p7.java-https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/p7.png
-               
-               p8.java- https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/p8.png
-               
-               p9.java- https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/p9.png
-               
-               p10.java- https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/p10.png
-         
+              
     
         
 2B]Performancetest  -https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/Screenshot%202026-04-18%20213715.png

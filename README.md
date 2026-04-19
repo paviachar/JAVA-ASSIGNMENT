@@ -36,6 +36,7 @@
 
 
 7a]LAB7A -https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/7a.png
+https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/7a1.png
 
 
 7b]LAB7B-

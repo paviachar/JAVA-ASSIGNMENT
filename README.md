@@ -22,7 +22,7 @@
 
 5a] JlistExample-
 
-5b]TabbedPaneExample-
+5b]TabbedPaneExample-https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/Screenshot%202026-04-19%20094227.png
 
 5c] CountryCapitalList-
 

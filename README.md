@@ -40,7 +40,7 @@ https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/7a1.png
 https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/7a2.png
 
 
-7b]LAB7B-
+7b]LAB7B-https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/7B.png
 
 
 

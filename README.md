@@ -27,3 +27,5 @@
 5c] CountryCapitalList-https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/Screenshot%202026-04-19%20094258.png
 
 5d] TabbedPaneExample1-https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/Screenshot%202026-04-19%20094328.png
+
+6a]FactorialCalculatorDemo - https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/6A.png

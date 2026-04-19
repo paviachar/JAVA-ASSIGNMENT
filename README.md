@@ -33,4 +33,16 @@
 
 6b] LAB6BC - https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/6b1.png
             https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/6b2.png
-                              
+
+
+7a]LAB7A -
+
+
+7b]LAB7B-
+
+
+
+8A]LAB8A-
+
+8B]LAB8B-
+

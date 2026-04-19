@@ -8,7 +8,8 @@ p1.java https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/p1.png
 
 p2.java https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/p2.png
 
-p3.java
+p3.java https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/p3.png
+
 p4.java
 p5.java
 

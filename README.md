@@ -9,7 +9,7 @@
                
                p3.java-https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/p3.png
                
-               p4.java-
+               p4.java-https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/p4.png
                
                p5.java-
                

@@ -1,8 +1,11 @@
 # JAVA-ASSIGNMENT
 
 1.] LAB1 -1A.] ListInterfaceDemo.java -https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/ListInterafceDemo.png
+
      1b]1b. Array List programs
-p1.java
+     
+p1.java https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/p1.png
+
 p2.java
 p3.java
 p4.java

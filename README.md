@@ -37,6 +37,15 @@
             https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/6b2.png
 
 
+
+
+6C] LAB6C -https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/6C.png
+
+
+
+
+
+
 7a]LAB7A -https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/7a.png
 https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/7a1.png
 https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/7a2.png

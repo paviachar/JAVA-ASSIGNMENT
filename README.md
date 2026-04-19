@@ -1,5 +1,32 @@
 # JAVA-ASSIGNMENT
 
+1.] LAB1 -1A.] ListInterfaceDemo.java
+
+          1b.] Array List programs
+               p1.java-
+               
+               p2.java-
+               
+               p3.java-
+               
+               p4.java-
+               
+               p5.java-
+               
+         1c. Linked List Programs
+         
+               p6.java-
+               
+               p7.java-
+               
+               p8.java-
+               
+               p9.java-
+               
+               p10.java-
+         
+    
+        
 2B]Performancetest  -https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/Screenshot%202026-04-18%20213715.png
 
 

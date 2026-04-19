@@ -72,7 +72,7 @@ https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/9c3.png
 https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/10a1.png
 
 
-10b]LAB10B -
+10b]LAB10B -  https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/10B.png
 
 
 

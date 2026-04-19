@@ -60,7 +60,7 @@ https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/9b1.png
 https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/9b22.png
 https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/9b2.png
 
-9c]LAB9C
+9c]LAB9C-https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/9c.png
 
 
 

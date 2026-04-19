@@ -17,7 +17,8 @@ p5.java  https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/p5.png
 
 1c] Linked List Programs
 
-p6.java
+p6.java  https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/p6.png
+
 p7.java
 p8.java
 p9.java

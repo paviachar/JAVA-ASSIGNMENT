@@ -32,4 +32,5 @@
                               https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/6A2.png
 
 6b] LAB6BC - https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/6b1.png
+            https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/6b2.png
                               

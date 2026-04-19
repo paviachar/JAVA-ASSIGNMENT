@@ -23,7 +23,7 @@
                
                p9.java- https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/p9.png
                
-               p10.java-
+               p10.java- https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/p10.png
          
     
         

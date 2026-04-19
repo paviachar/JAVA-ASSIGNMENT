@@ -5,7 +5,7 @@
           1b.] Array List programs
                p1.java- https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/p1.png
                
-               p2.java-
+               p2.java-https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/p2.png
                
                p3.java-
                

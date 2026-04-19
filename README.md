@@ -20,3 +20,10 @@
 4c] ImageButtonDemo -  https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/Screenshot%202026-04-19%20093450.png
                        https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/Screenshot%202026-04-19%20093509.png
 
+5a] JlistExample-
+
+5b]TabbedPaneExample-
+
+5c] CountryCapitalList-
+
+5d] TabbedPaneExample1-

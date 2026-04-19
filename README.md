@@ -15,7 +15,7 @@
                
          1c. Linked List Programs
          
-               p6.java-
+               p6.java- https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/p6.png
                
                p7.java-
                

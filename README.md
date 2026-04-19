@@ -68,10 +68,10 @@ https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/9c3.png
 
 
 
-10a]LAB10A
+10a]LAB10A- 
 
 
-10b]LAB10B
+10b]LAB10B -
 
 
 

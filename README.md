@@ -19,7 +19,7 @@
                
                p7.java-https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/p7.png
                
-               p8.java-
+               p8.java- https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/p8.png
                
                p9.java-
                

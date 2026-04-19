@@ -42,7 +42,7 @@
 6C] LAB6C -https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/6C.png
            https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/6C1.png
            https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/6C2.png
-
+           https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/6C3.png
 
 
 

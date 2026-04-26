@@ -119,4 +119,21 @@ https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/10a1.png
               https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/10B1.png
 
 
+11a]LAB11B- 
+
+11B]LAB11B-
+
+11C,D]LAB11C-
+
+
+12A]LAB12-
+
+12B]LAB12THB
+
+12C]lab12c-
+
+12D] LAB12THD-
+
+
+
 

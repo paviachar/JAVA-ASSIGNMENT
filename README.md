@@ -123,7 +123,7 @@ https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/10a1.png
 
 11B]LAB11B-https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/11thb%20.png
 
-11C,D]LAB11C- https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/11THC1.png
+11C,D]LAB11C- https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/11THC1.png   https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/11THC2.png
 
 
 12A]LAB12-

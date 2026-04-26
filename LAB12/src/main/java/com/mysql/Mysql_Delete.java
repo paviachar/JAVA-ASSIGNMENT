@@ -1,3 +1,7 @@
+//12a.  Read all the existing records from the table coffee which is from the database test and delete an existing coffee product  from the table with its id.
+
+
+
 package com.mysql;
 import java.sql.*;
 import java.util.Properties;

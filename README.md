@@ -121,7 +121,7 @@ https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/10a1.png
 
 11a]LAB11B- https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/11th%20select.png
 
-11B]LAB11B-
+11B]LAB11B-https://github.com/paviachar/JAVA-ASSIGNMENT/blob/main/11thb%20.png
 
 11C,D]LAB11C-
 
